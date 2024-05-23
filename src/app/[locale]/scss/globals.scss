@@ -1,0 +1,70 @@
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:ital,wght@0,100..900;1,100..900&display=swap');
+
+*,
+:after,
+:before {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  scroll-behavior: smooth !important;
+}
+
+* ,html, body {
+  scroll-behavior: smooth !important;
+  font-family: "Montserrat", sans-serif;
+}
+
+a { text-decoration: none !important; }
+
+.montserrat {
+  font-family: "Montserrat", sans-serif;
+}
+
+.wrapper {
+  padding-left: 5rem !important;
+  padding-right: 5rem !important;
+}
+
+.main-title {
+  font-size: 23px;
+  font-weight: bold;
+}
+
+.category-btn {
+  &:hover {
+    background-color: #121A32 !important;
+    color: #fff !important;
+  }
+}
+
+// Global Class
+.bg-cprimary { background-color: #000000 !important; }
+
+// Global Styles
+
+.view-all-outline-btn {
+  background-color: transparent !important;
+  font-weight: 500 !important;
+  font-size: 14px !important;
+  color: #2C6FF4 !important;
+  border: 0.5px solid #2C6FF4 !important;
+  border-radius: 8px !important;
+  text-align: center !important;
+  padding: 12px 60px !important;
+  transition: background-color 0.3s ease, color 0.3s ease;
+  &:hover {
+    background-color: #2C6FF4 !important;
+    color: #fff !important;
+    transition: background-color 0.3s ease, color 0.3s ease;
+  }
+}
+
+.advertisement-three-wrapper {
+  width: 100% !important;
+  height: 5rem !important;
+  // background-color: red !important;
+  // background: url('../../../../public/apple-watch-add-banner.png') !important;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover !important;
+}

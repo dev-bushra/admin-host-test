@@ -1,0 +1,92 @@
+.offers-card {
+    padding: 0 !important;
+    border: .5px solid #D0D3D8 !important;
+    border-radius: 8px !important;
+    min-width: 288px !important;
+    max-width: 288px !important;
+    .card-wrapper {
+      padding: 1rem !important;
+      .product-image-wrapper {
+        position: relative;
+        .add-to-favorites-btn {
+          display: flex;
+          align-items: center;
+          justify-content: center;
+          border: 0.5px solid #F3F3F3 !important;
+          background-color: #F3F3F3 !important;
+          width: 32px !important;
+          height: 32px !important;
+          border-radius: 8px !important;
+          padding: .4rem !important;
+          position: absolute;
+          top: 8px;
+          left: 10px;
+        }
+        .popularity-counter {
+          position: absolute;
+          bottom: 8px;
+          right: 10px;
+          display: flex;
+          align-items: center;
+          justify-content: center;
+          text-align: center;
+          gap: 5px;
+          border-radius: 8px !important;
+          padding: .1rem .6rem !important;
+          border: 0.5px solid #F3F3F3 !important;
+          background-color: #F3F3F3 !important;
+          span {
+            font-size: 14px;
+            font-weight: 500;
+            color: #000;
+          }
+        }
+      }
+      .product-name{
+        font-size: 16px;
+        font-weight: 400;
+        margin: .5rem 0;
+      }
+      .price-details {
+        display: flex;
+        flex-direction: column;
+        gap: .1rem;
+        .price {
+          font-size: 20px;
+          font-weight: 800;
+        }
+        .offer {
+          display: flex;
+          .old-price {
+            font-size: 14px;
+            font-weight: 300;
+            text-decoration: line-through;
+            color: #8C8C8C;
+            display: flex;
+            align-items: center;
+          }
+          .vat-offer {
+            color: #F1352B;
+            font-size: 14px;
+            font-weight: normal;
+            text-decoration: none;
+            margin: 0 .5rem;
+          }
+        }
+        .sold-counter {
+          color: #8C8C8C;
+          font-size: 14px;
+          font-weight: 300;
+        }
+      }
+    }
+    .btn {
+      display: flex !important;
+      align-items: center;
+      justify-content: center;
+      gap: 10px;
+      border-radius: 0px 0px 8px 8px !important;
+      text-align: center;
+      padding: .7rem !important;
+    }
+  }

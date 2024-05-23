@@ -1,0 +1,90 @@
+  {
+  "NotFoundPage": {
+    "title": "Page Not Found",
+    "description": "Oops! It seems like you've stumbled upon a page that doesn't exist. Don't worry, our internationalization magic is still hard at work on other parts of the app. Feel free to navigate back to explore more!"
+  },
+  "Header": {
+    "home": "Home",
+    "thankyou": "Thank You",
+    "deliveryTo": "Delivery to",
+    "location": "Abu Dhabi Street 28 Al Mashreq",
+    "allCategories": "All categories",
+    "bestSeller":"Best seller",
+    "mostRated": "Most rated",
+    "offers":"Offers",
+    "premium":"Premium",
+    "sellOn":"Sell on"
+  },
+  "Footer": {
+    "copyright": "© 2024 Find App. All rights reserved."
+  },
+  "IndexPage": {
+    "title": "Find",
+    "description": "Welcome"
+  },
+  "LoginPage": {
+    "title": "Login Page",
+    "buttonText": "Go back to home"
+  },
+  "ThankYouPage": {
+    "title": "THANK YOU!",
+    "description": "Thanks a bunch for filling that out. It means a lot to us, <br/>just like you do! We really appreciate you giving us a moment of your time today. <br/>Thanks for being you.",
+    "buttonText": "Home"
+  },
+  "BannerSection": {
+    "title": "Ready to start shopping?",
+    "inputPlaceholder": "What are you looking for",
+    "searchButton": "Search"
+  },
+  "StoriesSection": {
+    "title": "Stories"
+  },
+  "BrowseByCategorySection": {
+    "title": "Browse By Category"
+  },
+  "DealsOfTheDay": {
+    "title": "Deals of the day"
+  },
+  "AdvertisementOne": {
+    "p1": "Pre Order",
+    "p2": "be the first <br/>to own",
+    "p3": "From $399",
+    "p4": "Opplo Watch Sport<br />Series 8",
+    "p5": "A healthy leap ahead",
+    "DiscoverNow": "Discover Now"
+  },
+  "AdvertisementThree": {
+    "p1": "Get $3 Cashback! Min Order of $30",
+    "p2": "Use Code : GROCERY1920",
+    "DiscoverNow": " "
+  },
+  "OffersSection": {
+    "title": "Offers",
+    "viewAll": "View All"
+  },
+  "BestSellingSection": {
+    "title": "Best Selling",
+    "viewAll": "View All"
+  },
+  "RecentArriveSection": {
+    "title": "Recent Arrive",
+    "viewAll": "View All"
+  },
+  "ProductCard": {
+    "AddToCard": "Add to cart",
+    "SoldRecently": "sold recently"
+  },
+  "BestSellersOfTheWeek": {
+    "title": "Best sellers of the week",
+    "subTitle": "Every week, our staff personally hand-pick some of the best new website themes from our collection.",
+    "viewAll": "View All",
+    "other": "Preview",
+    "preview": "Preview"
+  },
+  "BestSellersOfTheWeekCard": {
+    "findShop": "Find Shop",
+    "withinTheLastDays":"Within the last 30 days",
+    "positiveSellerRating": "80% positive seller rating",
+    "SoldRecently": "sold recently"
+  }
+}

@@ -1,0 +1,90 @@
+{
+  "NotFoundPage": {
+    "title": "الصفحة غير موجودة",
+    "description": "أُووبس! يبدو أنك عثرت على صفحة غير موجودة. لا تقلق، فسحر التدويل الخاص بنا لا يزال يعمل بجد على أجزاء أخرى من التطبيق. لا تتردد في العودة لاستكشاف المزيد!"
+  },
+  "Header": {
+    "home": "الرئيسية",
+    "thankyou": "شكرا لك",
+    "deliveryTo": "تسليم الى",
+    "location": "أبوظبي شارع 28 المشرق",
+    "allCategories": "جميع الفئات",
+    "bestSeller":"الأكثر مبيعًا",
+    "mostRated": "الأكثر تقييما",
+    "offers":"عروض",
+    "premium":"غالي",
+    "sellOn":"بيع على"
+  },
+  "Footer": {
+    "copyright": "© 2024 تطبيقك فاين. كل الحقوق محفوظة."
+  },
+  "IndexPage": {
+    "title": "فيند",
+    "description": " مرحبًا"
+  },
+  "LoginPage": {
+    "title": "تسجيل الدخول",
+    "buttonText": "الانتقال للمنزل"
+  },
+  "ThankYouPage": {
+    "title": "شكرا لك",
+    "description": "شكرا حفنة لملء ذلك. إنه يعني الكثير بالنسبة لنا، تمامًا كما تفعل أنت!<br/> نحن نقدر حقًا منحنا لحظة من وقتك اليوم. شكرا لكونك نفسك. ",
+    "buttonText": "الانتقال للرئيسية"
+  },
+  "BannerSection": {
+    "title": "هل أنت مستعد لبدء التسوق؟",
+    "inputPlaceholder": "عن ماذا تبحث؟",
+    "searchButton": "بحث"
+  },
+  "StoriesSection": {
+    "title": "القصص"
+  },
+  "BrowseByCategorySection": {
+    "title": "تصفح حسب الفئات"
+  },
+  "DealsOfTheDay": {
+    "title": "صفقات اليوم"
+  },
+  "AdvertisementOne": {
+    "p1": "النظام السابق",
+    "p2": "كن أول <br/>يمتلك",
+    "p3": "من 399 دولارًا",
+    "p4": "اوبلو واتش سبورت<br />السلسلة 8",
+    "p5": "قفزة صحية إلى الأمام",
+    "DiscoverNow": "اكتشف الآن"
+  },
+  "AdvertisementThree": {
+    "p1": "Get $3 Cashback! Min Order of $30",
+    "p2": "Use Code : GROCERY1920",
+    "DiscoverNow": " "
+  },
+  "OffersSection": {
+    "title": "العروض",
+    "viewAll": "المذيد"
+  },
+  "BestSellingSection": {
+    "title": "الافضل مبيعا",
+    "viewAll": "المذيد"
+  },
+  "RecentArriveSection": {
+    "title": "وصل مؤخرا",
+    "viewAll": "المذيد"
+  },
+  "ProductCard": {
+    "AddToCard": "اضافة الي السلة",
+    "SoldRecently": "بيع مؤخرا"
+  },
+  "BestSellersOfTheWeek": {
+    "title": "Best sellers of the week",
+    "subTitle": "Every week, our staff personally hand-pick some of the best new website themes from our collection.",
+    "viewAll": "View All",
+    "other": "Preview",
+    "preview": "Preview"
+  },
+  "BestSellersOfTheWeekCard": {
+    "findShop": "Find Shop",
+    "withinTheLastDays":"Within the last 30 days",
+    "positiveSellerRating": "80% positive seller rating",
+    "SoldRecently": "sold recently"
+  }
+}
